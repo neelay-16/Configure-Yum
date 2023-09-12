@@ -37,6 +37,7 @@ If you see configuration files in this directory, it indicates that yum is confi
 ![image](https://github.com/neelay-16/Configure-Yum/assets/135517502/bfa03a50-c757-487c-a1ca-09e6aa639962)
 
 6. Also,you can try installing any software through yum command to check whether 'yum' command is properly configured or not.
+   
 ![WhatsApp Image 2023-08-23 at 2 12 54 AM](https://github.com/neelay-16/Configure-Yum/assets/135517502/e3a742cb-8766-456d-8eca-31e383457faf)
 
 ![WhatsApp Image 2023-08-23 at 2 13 42 AM](https://github.com/neelay-16/Configure-Yum/assets/135517502/e71356b7-3f58-4a66-a4b1-32c4d4a62e49)
